@@ -1,6 +1,6 @@
 This folder contains the code files used in the paper titled "Properties of Fixed Points of Generalised Extra Gradient Methods Applied to Min-Max Problems".
 
-Link to the paper: "https://arxiv.org/pdf/2504.03069".
+Link to the paper: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11008549".
 
 In this project, we try to solve the minimax problem considering general smooth non-convex non-concave objective functions using a generalised extra grdaient algorithm with the aim of relating the saddle points of the objective function to the limit points of the algorithm.
 
